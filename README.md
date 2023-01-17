@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @fehart20
-- 👀 I’m interested in docker, networking, proxy, webservers, etc.
-- 🌱 I’m currently learning Caddy, node.js
+- 👀 I’m interested in docker, networking, proxies, webservers and more it-stuff 😄
+- 🌱 I’m currently learning Caddy, node.js and ms-ad
